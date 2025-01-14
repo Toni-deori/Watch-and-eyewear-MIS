@@ -5,7 +5,7 @@ This is a Windows Forms application built using Visual Basic (VB) for managing e
 ## Features
 
 - **Manage Inventory**: Track eyewear and watch products, their categories, and stock.
-- **Customer Management**: Add, edit, and view customer information.
+- **User Management**: Add, edit, and view user information.
 - **Sales Management**: Record sales transactions and view sale history.
 - **Reporting**: Generate reports on stock levels, sales, and customer activity.
 - **Search and Filter**: Easily search and filter items by categories, sales, or customers.
