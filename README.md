@@ -39,3 +39,5 @@ Before running the application, make sure you have the following installed:
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/Toni-Deori/Watch-and-eyewear-MIS.git
+2. Export the eyeandwatchmis.sql
+3. Run the eyeandwatchMIS.vbproj using Visual Studio
